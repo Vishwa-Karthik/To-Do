@@ -1,16 +1,19 @@
-# to_do_application
+# Flutter To Do Application - Hive local Database
+### Simple interactive flutter To-Do application using Hive local Database
 
-A new Flutter project.
+## Dependency
+```bash
+flutter pub get
+```
+## Results
+<p>
+<img src="https://github.com/Vishwa-Karthik/To-Do/blob/master/assets/img1.jpg" width=200 height=400 />
+&nbsp
+<img src="https://github.com/Vishwa-Karthik/To-Do/blob/master/assets/img2.jpg" width=200 height=400 />
+&nbsp
+<img src="https://github.com/Vishwa-Karthik/To-Do/blob/master/assets/img3.jpg" width=200 height=400 />
+</p>
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## References
+### 1. [Hive Database](https://pub.dev/packages/hive)
+### 2. [Flutter Slidable](https://pub.dev/packages/flutter_slidable)
